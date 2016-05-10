@@ -1,5 +1,5 @@
 # GameOfLife
-My implementation of Conway's Game of Life. This has been created for use with a webpage, view at morrisballenger.com/projects/game-of-life
+My implementation of Conway's Game of Life. This has been created for use with a webpage, view at morrisballenger.com/projects/game-of-life.html
 
 # Rules: 
 1) Any live cell with fewer than two live neighbours dies, as if caused by under-population.
