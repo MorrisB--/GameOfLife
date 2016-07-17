@@ -1,5 +1,6 @@
 /**
  * @author Morris Ballenger
+ * @version 1.0
  * 
  * This has been edited for use with a webpage. View at morrisballenger.com/projects/game-of-life
  */
